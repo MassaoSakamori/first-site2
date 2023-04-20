@@ -1,0 +1,46 @@
+header{
+
+}
+.cabeça{
+   background-color: darkred;
+   align-items: center;
+   padding: 0%;
+   margin: 0%;
+   width: 14%;
+}
+.img{
+   width:10%;
+}
+.item1{
+   background-color: aqua;width: 6%;
+}
+.item2{
+   background-color: rgb(140, 0, 255);width: 12%;
+}
+.item3{
+   background-color: chocolate;width: 10%;
+}
+.item4{
+   background-color: darkgoldenrod;width: 13%;
+}
+.item5{
+   background-color: red;width: 8%;
+}
+.corpo2{
+   background-image: linear-gradient(#ff0022,#000099);
+}
+.img3{
+   width: 40%;
+}
+.img2{
+   width: 23%
+}
+.img4{
+   width: 30%;
+}
+.img6{
+   width: 35%;
+}
+.img5{
+   width: 24%;
+}
